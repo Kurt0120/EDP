@@ -1,0 +1,12 @@
+C:\Users\Kurt\source\repos\dataupload\dataupload\bin\Debug\dataupload.exe.config
+C:\Users\Kurt\source\repos\dataupload\dataupload\bin\Debug\dataupload.exe
+C:\Users\Kurt\source\repos\dataupload\dataupload\bin\Debug\dataupload.pdb
+C:\Users\Kurt\source\repos\dataupload\dataupload\bin\Debug\dataupload.xml
+C:\Users\Kurt\source\repos\dataupload\dataupload\obj\Debug\dataupload.vbproj.AssemblyReference.cache
+C:\Users\Kurt\source\repos\dataupload\dataupload\obj\Debug\dataupload.Form1.resources
+C:\Users\Kurt\source\repos\dataupload\dataupload\obj\Debug\dataupload.Resources.resources
+C:\Users\Kurt\source\repos\dataupload\dataupload\obj\Debug\dataupload.vbproj.GenerateResource.cache
+C:\Users\Kurt\source\repos\dataupload\dataupload\obj\Debug\dataupload.vbproj.CoreCompileInputs.cache
+C:\Users\Kurt\source\repos\dataupload\dataupload\obj\Debug\dataupload.exe
+C:\Users\Kurt\source\repos\dataupload\dataupload\obj\Debug\dataupload.xml
+C:\Users\Kurt\source\repos\dataupload\dataupload\obj\Debug\dataupload.pdb
